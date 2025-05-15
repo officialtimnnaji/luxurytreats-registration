@@ -1,4 +1,4 @@
-document.querySelector('form').addEventListener('submit', 
+/*document.querySelector('form').addEventListener('submit', 
 function(event) {
   event.preventDefault();
 
@@ -16,5 +16,5 @@ document.getElementById('fullname').value.trim();
   alert(`Thank you, ${fullname}! You have successfully registered 
 for the ${course.replace('-', ' ')} course.`);
   this.reset();
-});
+});*/
 
